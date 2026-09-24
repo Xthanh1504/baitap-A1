@@ -38,3 +38,5 @@ Sau khi mở ứng dụng lần đầu, Logcat ghi nhận đúng thứ tự vòn
 onCreate (savedInstanceState = null)
 onStart
 onResume
+```
+![Checkpoint 2](images/checkpoint2.png)
