@@ -39,4 +39,4 @@ onCreate (savedInstanceState = null)
 onStart
 onResume
 ```
-![Checkpoint 2](images/checkpoint2.png)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/58cfb6c2-dd85-4251-860b-4e0891b939cd" />
